@@ -1,4 +1,10 @@
-/*Re-typing most of the stuff for practice purposese (although most of the code will be same as the inspo code)*/ 
+/**
+ * @name dark gruvbox
+ * @description Dark Gruvbox Themse for Discord
+ * @author arkeeo
+ * @version 1.0.0
+ * @source github.com/arkeeo/dark-gruvbox-theme-discord
+*/
 * {
 	--gruv-dark-bg-hard: 0, 0, 0;
 	--gruv-dark-bg: 0 0 0;
