@@ -1,13 +1,13 @@
 /**
  * @name dark gruvbox
- * @description Dark Gruvbox Themse for Discord
+ * @description Dark Gruvbox Theme for Discord
  * @author arkeeo
  * @version 1.0.0
  * @source github.com/arkeeo/dark-gruvbox-theme-discord
 */
 * {
 	--gruv-dark-bg-hard: 0, 0, 0;
-	--gruv-dark-bg: 0 0 0;
+	--gruv-dark-bg: 0, 0, 0;
 	--gruv-dark-bg-alt: 0, 0, 0;
 	--gruv-dark-bg-soft: 50, 48, 47;
 	--gruv-dark-bg1: 60, 56, 54;
@@ -95,7 +95,7 @@
 	--gruv-dark-status-idle: rgba(var(--gruv-dark-accent), 0.8);
 	--gruv-dark-status-dnd: var(--gruv-dark-red-dark);
 
-	--vc-spotify-green: rgba(var(--gruv-dark-green-dark));
+	--vc-spotify-green: rgb(var(--gruv-dark-green-dark));
 	--vc-spotify-green-90: rgba(var(--gruv-dark-green-dark), 0.2);
 	--vc-spotify-green-80: rgba(var(--gruv-dark-green-dark), 0.3);
 }
