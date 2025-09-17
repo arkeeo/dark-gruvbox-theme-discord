@@ -6,11 +6,8 @@ This theme was made for learning purposes. Full credit goes to the original crea
 ---
 
 ## Screenshots
-
-### Full Preview
 ![Screenshot 1](Screenshot%202025-09-05%20190304.png)
 
-### Alternate View
 ![Screenshot 2](Screenshot%202025-09-05%20190333.png)
 
 ---
