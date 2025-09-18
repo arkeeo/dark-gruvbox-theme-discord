@@ -16,7 +16,7 @@ This theme was made for learning purposes. Full credit goes to the original crea
 
 1. Copy or place `dark-gruvbox-theme.css` into your Discord theme folder (or wherever you manage CSS themes).  
 2. Enable Custom CSS / Themes in your Discord client (if applicable).  
-3. Activate the theme.
+3. Activate the theme through Discord themes settings.
 
 ---
 
