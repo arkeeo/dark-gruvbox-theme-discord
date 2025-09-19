@@ -18,6 +18,7 @@ This theme was made for learning purposes. Full credit goes to the original crea
 2. Enable Custom CSS / Themes in your Discord client (if applicable).  
 3. Activate the theme through Discord themes settings.
 
+This themes works after installing vencord for discord
 ---
 
 ## Credits
