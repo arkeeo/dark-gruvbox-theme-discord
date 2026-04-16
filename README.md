@@ -11,6 +11,11 @@ This is an altered CSS version of the Gruvbox Dark theme by *shvedes*. Changes h
 ## VC View
 ![VC View](assets/vc-view.png)
 
+<p align="center">
+  <img src="assets/home-view.png" width="45%" />
+  <img src="assets/vc-view.png" width="45%" />
+</p>
+
 ## Installation
 
 1. Copy or place `dark-gruvbox-theme.css` into your Discord theme folder (or wherever you manage CSS themes).  
