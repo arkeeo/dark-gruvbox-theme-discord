@@ -12,8 +12,8 @@ This is an altered CSS version of the Gruvbox Dark theme by *shvedes*. Changes h
 ![VC View](assets/vc-view.png)
 
 <p align="center">
-  <img src="assets/home-view.png" width="50%" />
-  <img src="assets/vc-view.png" width="50%" />
+  <img src="assets/home-view.png" width="45%" />
+  <img src="assets/vc-view.png" width="45%" />
 </p>
 
 ## Installation
