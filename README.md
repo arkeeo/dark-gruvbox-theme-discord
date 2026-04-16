@@ -1,7 +1,6 @@
 # Dark Gruvbox Theme for Discord
 
 This is an altered CSS version of the Gruvbox Dark theme by *shvedes*. Changes have been made to make it solid black.  
-This theme was made for learning purposes. Full credit goes to the original creator.
 
 ---
 
