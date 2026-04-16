@@ -5,11 +5,11 @@ This is an altered CSS version of the Gruvbox Dark theme by *shvedes*. Changes h
 ---
 
 ## Screenshots
-![Screenshot 1](home-view.png)
+## Home View
+![Home View](assets/home-view.png)
 
-![Screenshot 2](Screenshot%202025-09-05%20190333.png)
-
----
+## VC View
+![VC View](assets/vc-view.png)
 
 ## Installation
 
